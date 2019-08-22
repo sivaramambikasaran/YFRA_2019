@@ -1,0 +1,9 @@
+Adopt latest technologies in teaching like GitHub, Jupyter Notebook, AutoGradr
+
+Teaching has both theoretical and practical applications: Page rank, Matrix computations, Low-Rank decomposition
+
+Students' appreciation from workflow. Class entertaining (pull reports from NYU as well).
+
+Research activities: Shag about HODLR, Celerite, Goerge codes; Talk about recent work with Shyam on Energy based low-rank factorizations, Vaishnavi's High Frequency FMM, Kandappan's multifrontal solver, Pragnesh's Data driven Chemical Kinetics, Ritesh Khan work on iterative solvers, New Dual Degree student Mythreyi (along with Kanjarla Anand Krishna). Also, 8 M.Tech students working on wide range of projects. Previous post doc (Nachiketa Misra) working at IIITDM. Abhay Gupta (M.S. Research IISc now at Flipkart worked on Least square).
+
+Collaboration with Balaji and Krishnamurti on Machine Learning for PDE's, collaboration with Krithika on Data driven Chemical Kinetic reduction, Collaboration with Varun initial phase on propellant combustion; Thanks DAE and DST funding agencies. Written to MATRICS and CRG.
